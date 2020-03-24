@@ -1,19 +1,20 @@
 X - Kopfkino - "head cinema" like a day dream but emphasis on being vivid
 Schnapsidee - impractical idea that seems brilliant when drunk
-Flughafen - airport
-Berlin - Germany's capitol
+X - Flughafen - airport
+X - Berlin - Germany's capitol
 X - Bratwurst - German Sausage
 Hauptstrasse - main street; primary retail street
 Brot - loaf (of bread)
-Gauss - Carl Gauss - German mathmetician and scientist (lots of stuff)
+X - Gauss - Carl Gauss - German mathmetician and scientist (lots of stuff)
 X - Klimaanlage - air conditioning
-Rammstein - "Ramming Stone", German Band, name comes from a US airforce incident in Ramstein that killed 80 people
+X - Rammstein - "Ramming Stone", German Band, name comes from a US airforce incident in Ramstein that killed 80 people
 Musik - music
-BMW - "Bayerische Motoren Werke" Bavarian motor works: automobile and motorcycle producer
+X - BMW - "Bayerische Motoren Werke" Bavarian motor works: automobile and motorcycle producer
 Biergarten - "Beer Garden" place where beer and food are served, typically outdoors, typically at shared tables
 X - Ratskeller - "Council's Cellar" a bar or resteraunt in the basement of a city hall/nearby
 Dirndel - traditional feminine dress, based on traditional clothing of Alps peasants
 X - Lederhose - traditional masculine outfit, short or knee-length leather breeches
 Luftschloss - a fantasy or unrealistic dream
-wettbewerbsfaehig - competitive
+X - wettbewerbsfaehig - competitive
 Schneewittchen - snow white (but probably referring to the original where the evil queen is forced to dance to death)
+X - Rasenpfeile - lawn darts
