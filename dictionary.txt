@@ -13,7 +13,7 @@ BMW - "Bayerische Motoren Werke" Bavarian motor works: automobile and motorcycle
 Biergarten - "Beer Garden" place where beer and food are served, typically outdoors, typically at shared tables
 X - Ratskeller - "Council's Cellar" a bar or resteraunt in the basement of a city hall/nearby
 Dirndel - traditional feminine dress, based on traditional clothing of Alps peasants
-Lederhose - traditional masculine outfit, short or knee-length leather breeches
+X - Lederhose - traditional masculine outfit, short or knee-length leather breeches
 Luftschloss - a fantasy or unrealistic dream
 wettbewerbsfaehig - competitive
 Schneewittchen - snow white (but probably referring to the original where the evil queen is forced to dance to death)
