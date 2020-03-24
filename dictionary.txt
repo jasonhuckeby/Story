@@ -1,5 +1,5 @@
 X - Kopfkino - "head cinema" like a day dream but emphasis on being vivid
-Schnapsidee - impractical idea that seems brilliant when drunk
+X - Schnapsidee - impractical idea that seems brilliant when drunk
 X - Flughafen - airport
 X - Berlin - Germany's capitol
 X - Bratwurst - German Sausage
@@ -14,7 +14,7 @@ Biergarten - "Beer Garden" place where beer and food are served, typically outdo
 X - Ratskeller - "Council's Cellar" a bar or resteraunt in the basement of a city hall/nearby
 Dirndel - traditional feminine dress, based on traditional clothing of Alps peasants
 X - Lederhose - traditional masculine outfit, short or knee-length leather breeches
-Luftschloss - a fantasy or unrealistic dream
+X - Luftschloss - a fantasy or unrealistic dream
 X - wettbewerbsfaehig - competitive
 Schneewittchen - snow white (but probably referring to the original where the evil queen is forced to dance to death)
 X - Rasenpfeile - lawn darts
